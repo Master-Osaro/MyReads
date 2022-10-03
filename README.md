@@ -1,6 +1,10 @@
 # MyReads Project
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/16164d1c-e67d-4d41-82f6-9d57e7701295/deploy-status)](https://app.netlify.com/sites/myreads-udacity-o/deploys)
+
 MyReads is one of the projects from Udacity's React Nanodegree course. This app helps you to organize books into three shelves: 'Currently Reading', 'Want to Read' & 'Read'.
+
+[View Live Site](https://myreads-udacity-o.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app). A subset of [instructions](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md) is shown bellow:
 
